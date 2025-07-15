@@ -1,6 +1,6 @@
 # IpLoggerPlugin - Minecraft 服务器IP记录插件
 
-![GitHub](https://img.shields.io/badge/Bukkit-1.13~1.21+-brightgreen) ![GitHub](https://img.shields.io/badge/License-MIT-blue)
+![GitHub](https://img.shields.io/badge/Spigot-1.13~1.21+-brightgreen) ![GitHub](https://img.shields.io/badge/License-MIT-blue)
 
 ## 简介
 
