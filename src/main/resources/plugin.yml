@@ -1,0 +1,19 @@
+# plugin.yml
+name: IpLoggerPlugin
+main: com.foxplaying.iplogger.IpLoggerPlugin
+version: 1.0
+api-version: 1.13
+
+commands:
+  getip:
+    description: 管理员 IP 查询命令  # Administrator IP lookup command
+    description-en: Administrator IP lookup command
+    usage: /getip <玩家名> | version | langauge | help  # /getip <player> | version | joinlog | help
+    usage-en: /getip <player> | version | langauge | help
+    permission: iplogger.admin
+
+permissions:
+  iplogger.admin:
+    description: 允许使用 /getip 命令的所有功能  # Allows full usage of the /getip command
+    description-en: Allows full usage of the /getip command
+    default: op

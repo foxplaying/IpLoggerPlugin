@@ -1,0 +1,11 @@
+# IpLogger Plugin Configuration / IpLogger 插件配置文件
+
+# Enable logging player join IP addresses
+# 是否开启玩家加入时记录IP日志
+join-log-enabled: true
+
+# Plugin default language / 插件默认语言
+# Supported values:
+#   zh - Chinese (中文)
+#   en - English (英文)
+language: zh
