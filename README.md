@@ -4,7 +4,7 @@
 
 ## 简介
 
-IpLoggerPlugin 是一个轻量级的Minecraft服务器插件，用于记录和查询玩家的IP地址（IPv4/IPv6）。插件提供管理员命令来查询玩家IP信息，支持多语言界面，并可将数据存储在本地SQLite数据库中。
+IpLoggerPlugin 是一个轻量级的高版本Minecraft服务器插件，用于记录和查询玩家的IP地址（IPv4/IPv6）。插件提供管理员命令来查询玩家IP信息，支持多语言界面，并可将数据存储在本地SQLite数据库中。
 
 ## 功能特性
 
